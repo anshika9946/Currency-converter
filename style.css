@@ -6,6 +6,26 @@ body {
     background-repeat: no-repeat;
 }
 
+.cont{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+table, td, th {  
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+
+
 .heading {
     font-family: 'Pacifico', cursive;
     margin: 35px auto 20px;
